@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cass-afk
 - 👀 I’m interested in anything related to Coding
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects related to AI or ML
+- 🌱 I’m currently learning Computer Vision.
+- 💞️ I’m looking to collaborate on projects related to Computer Vision, AI or Machine Learning.
 - 📫 How to reach me: changcassandra02@gmail.com
 
 <!---
